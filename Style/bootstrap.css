@@ -4441,7 +4441,7 @@ textarea.form-control-lg {
 }
 
 .card-img-overlay {
-  position: absolute;
+  position: overlay;
   top: 0;
   right: 0;
   bottom: 0;
